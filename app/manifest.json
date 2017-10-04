@@ -1,6 +1,7 @@
 {
-  "lang": "en",
-  "name": "QR Code Scanner",
+  "lang": "en-US",
+  "name": "PWA QR Code Scanner",
+  "short_name": "PWA QR Code Scanner"
   "icons": [
     {
       "src": "\/assets\/images\/icons\/android-chrome-192x192.png",
