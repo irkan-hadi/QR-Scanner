@@ -1,6 +1,9 @@
 # QR Code Scanner
 Lightweight progressive web app for scanning QR codes offline.
 
+## Usage
+Visit https://irkan-hadi.github.io/QR-Scanner/app/index.html from your android mobile using Google Chrome 
+
 ## Features
 - QRCode scanning
 - Offline
